@@ -122,3 +122,26 @@ img{
     min-width: 200px;
     height: auto;
 }
+@media screen and (max-width: 625px){
+    h1{
+        margin:auto;
+    }
+    nav{
+        left: 30px;
+    }
+    main{
+        left: 200px;
+    }
+
+}
+
+@media screen and (max-width: 800px) {   
+    h2{
+        font-size: 50px;
+    }
+    p, section ul, figure{
+        padding: 20px;
+        font-size: 16px;
+    }
+    
+}
