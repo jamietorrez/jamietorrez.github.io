@@ -1,0 +1,1 @@
+A simple practice project for Codecademy's Front End Engineering course.
